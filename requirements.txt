@@ -1,0 +1,6 @@
+pymongo==4.2.0
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn
+dotenv
+-e . # This line indicates that the current directory (.) should be installed in editable mode, allowing you to make changes to the code and have them reflected immediately without needing to reinstall the package.
